@@ -1,7 +1,7 @@
 # how-to-code-simple-data
 How to Code Simple Data, course on edX
 
-Course Audited between 30 APR 2024 and 06 JUN 2024
+Course Audited between 06 JUN 2024 and 05 JUL 2024
 
 ## Module List
 
